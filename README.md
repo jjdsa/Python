@@ -1,2 +1,2 @@
 # Python
- Automatizando Tarfes Maçantes com Python
+ Automatizando Tarefas Maçantes com Python
